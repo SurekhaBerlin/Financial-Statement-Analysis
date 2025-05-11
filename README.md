@@ -37,3 +37,12 @@ In which months did spending increase sharply, and what caused it?
 Trends & Patterns
 Are there any repeating monthly or seasonal patterns in revenue or spending?
 Which months show the best alignment between budgeted and actual figures?
+
+
+
+
+![Page1](https://github.com/user-attachments/assets/2c108cb1-fd89-4c5b-955b-3f7983e16dd4)
+
+![Page2](https://github.com/user-attachments/assets/3043e19f-ac8a-46de-b336-69fc2828ef35)
+
+![Page3](https://github.com/user-attachments/assets/c8bdd928-9d10-4a7f-9a87-e392b41399de)
